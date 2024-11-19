@@ -1,2 +1,1 @@
-alert("Hello!");
-alert("Hi");
+alert("Hello Branch!");
